@@ -1,2 +1,2 @@
 # Monster Shop Games
-### Modern games with nostalgic flavour
+Modern games with nostalgic flavour
