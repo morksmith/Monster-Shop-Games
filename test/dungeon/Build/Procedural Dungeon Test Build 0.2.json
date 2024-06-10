@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pixel Text",
+"productVersion": "0.1",
+"dataUrl": "Procedural Dungeon Test Build 0.2.data.unityweb",
+"wasmCodeUrl": "Procedural Dungeon Test Build 0.2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Procedural Dungeon Test Build 0.2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
