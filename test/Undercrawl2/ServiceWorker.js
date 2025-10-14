@@ -1,9 +1,9 @@
-const cacheName = "Monster Shop Games-Undercrawl 2-0.0.4";
+const cacheName = "Monster Shop Games-Undercrawl 2-0.0.5";
 const contentToCache = [
-    "Build/Undercrawl 2 WebGL 0.0.4.loader.js",
-    "Build/Undercrawl 2 WebGL 0.0.4.framework.js.gz",
-    "Build/Undercrawl 2 WebGL 0.0.4.data.gz",
-    "Build/Undercrawl 2 WebGL 0.0.4.wasm.gz",
+    "Build/Undercrawl 2 WebGL 0.0.5.loader.js",
+    "Build/Undercrawl 2 WebGL 0.0.5.framework.js",
+    "Build/Undercrawl 2 WebGL 0.0.5.data",
+    "Build/Undercrawl 2 WebGL 0.0.5.wasm",
     "TemplateData/style.css"
 
 ];
