@@ -1,9 +1,9 @@
-const cacheName = "Monster Shop Games-Brick Breaker-0.0.3";
+const cacheName = "Monster Shop Games-Brick Breaker-0.0.4";
 const contentToCache = [
-    "Build/Brick Breaker 0.0.3.loader.js",
-    "Build/Brick Breaker 0.0.3.framework.js",
-    "Build/Brick Breaker 0.0.3.data",
-    "Build/Brick Breaker 0.0.3.wasm",
+    "Build/Brick Breaker 0.0.4.loader.js",
+    "Build/Brick Breaker 0.0.4.framework.js",
+    "Build/Brick Breaker 0.0.4.data",
+    "Build/Brick Breaker 0.0.4.wasm",
     "TemplateData/style.css"
 
 ];
